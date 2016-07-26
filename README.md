@@ -1,2 +1,2 @@
-# clase_css
-CSS externo
+# Proyecto2
+Proyecto Clase 2 Coderhouse
